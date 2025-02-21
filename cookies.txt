@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.site.vrzcentral.online	TRUE	/	FALSE	1999999999	__cf_bm	M2th3cf4EYEfFjFNFzMVlgVWC3XZp1rf.pD7_nqH3bQ-1740154799-1.0.1.1-rjaghmGq4ZWT.X1F8gpPNuiAZ73Z7fRICvx0HOpmdnQyJyvSnVC_NEOPpn7VT3WV6vAJbG.oUrC3GZ6JuOb3gA
+site.vrzcentral.online	TRUE	/	FALSE	1999999999	SameSite	None
+
